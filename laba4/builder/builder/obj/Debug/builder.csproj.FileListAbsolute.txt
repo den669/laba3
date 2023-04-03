@@ -1,0 +1,22 @@
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.Form1.resources
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.Properties.Resources.resources
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.csproj.GenerateResource.cache
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\builder\builder\bin\Debug\builder.exe.config
+D:\HomeWork\Projects\builder\builder\bin\Debug\builder.exe
+D:\HomeWork\Projects\builder\builder\bin\Debug\builder.pdb
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.exe
+D:\HomeWork\Projects\builder\builder\obj\Debug\builder.pdb
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\bin\Debug\builder.exe.config
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\bin\Debug\builder.exe
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\bin\Debug\builder.pdb
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.csproj.AssemblyReference.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.Form1.resources
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.Properties.Resources.resources
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.csproj.GenerateResource.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.exe
+C:\Users\rozdo\OneDrive\Рабочий стол\kpz\Builder-main\builder\builder\obj\Debug\builder.pdb
